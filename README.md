@@ -11,7 +11,7 @@
   <p>Hey,<br>I'm Inderpreet Singh. 
     I am currently persuing Btech. degree in 
     <b>Computer Science Endineering</b> 
-    from GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA.s
+    from GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
   </p>
   <div>
     <nav>Some of my interests are:</nav><br>
