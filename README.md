@@ -30,11 +30,12 @@
     </ul>
   </div>
   <hr>
-  <div><tabel border="3">
-    <th>Sr no.</th>
-    <th>Marks(in %age)/ CGPA</th>
-    <th>Class</th>
-    <th>School/College</th>
+  <div>
+    <tabel border="3">
+      <th>Sr no.</th>
+      <th>Marks(in %age)/ CGPA</th>
+      <th>Class</th>
+      <th>School/College</th>
     <tr>
       <td>1</td>
       <td>86%</td>
@@ -53,6 +54,7 @@
       <td>Btech CSE</td>
       <td>Guru Nanak Dev Engineering College</td>
     </tr>
-  </tab
+   </table>
+  </div>
 </body>
 </html>
