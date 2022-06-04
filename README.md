@@ -30,22 +30,22 @@
     </ul>
   </div>
   <hr>
-  <div>
-    <tabel border="3">
-      <th>Sr no.</th>
-      <th>Marks(in %age)/ CGPA</th>
-      <th>Class</th>
-      <th>School/College</th>
+  <table border="3">
+    <th>Sr no.</th>
+    <th>Marks(in %age)/CGPA</th>
+    <th>Class</th>
+    <th>School/College</th>
+
     <tr>
-      <td>1</td>
-      <td>86%</td>
-      <td>10<sup>th</sup></td>
-      <td>Amrit Indo Canadian Academy</td>
+        <td>1</td>
+        <td>86%</td>
+        <td>10<sup>th</sup></td>
+        <td>Amrit Indo Canadian Academy</td>
     </tr>
     <tr>
       <td>2</td>
       <td>69%</td>
-      <td>12<sup>th</sup></td>
+      <td >12<sup>th</sup></td>
       <td>Amrit Indo Canadian Academy</td>
     </tr>
     <tr>
@@ -53,9 +53,10 @@
       <td>8.95</td>
       <td>Btech CSE</td>
       <td>Guru Nanak Dev Engineering College</td>
+
     </tr>
-   </table>
-  </div>
+</table>
+
   
 </body>
 </html>
