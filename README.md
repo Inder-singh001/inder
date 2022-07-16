@@ -7,7 +7,7 @@
   
 </head>
 <body>
-  <b><h1>ABOUT ME</h1></b>
+  #ABOUT ME
   <p>Hey,<br>I'm <b>Inderpreet Singh</b>. 
     I am currently persuing Btech. degree in 
     <b>Computer Science Engineering</b> 
