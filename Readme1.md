@@ -40,8 +40,8 @@ To install Convertigo, Refer to the link:
 - The free plan doesn’t support many feature
  
  ## Some others Platforms
- – Back4app
- – Firebase
- – Joget
- – Saltcorn
- – Parse
+- Back4app
+- Firebase
+- Joget
+- Saltcorn
+- Parse
