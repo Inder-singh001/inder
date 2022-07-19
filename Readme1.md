@@ -38,6 +38,7 @@ To install Convertigo, Refer to the link:
 ## Disadvantages
 - It’s not free, and you need to pay a hefty amount to use the features
 - The free plan doesn’t support many feature
+- Beginner's are ignoring basic programmig knowledge
  
  ## Some others Platforms
 - Back4app
