@@ -8,4 +8,10 @@
 It is basically a No Code platform in which you can develop and design application without any coding in front or back-end.
 
 ---
+## Installation
+Convertigo is an open source LOW Code/NO Code Application platform for a full stack mobile or web application development.
+To install Convertigo, Refer to the link:
+            [Install Convertigo]()
+            
 
+ 
