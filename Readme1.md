@@ -6,9 +6,24 @@
 - It increases the performance and productivity of the user.
 ### NO Code
  It is also used to designing and using applications without the knowledge of programming language.
- For example: :google forms: Google Forms
-
+ For example: Google Forms
+ 
 ---
+## Studios
+Convertigo platform have the best of Low Code & No Code business Application creation with two different studios.
+- Convertigo Studio(Low code Studio)
+- No Code Studio
+### Convertigo Studio
+Convertigo Studio enables user to program the Back-end and Front-end application development 
+of Convertigo Platform within the same integrated environment. Within Studio the programmer can:
+- Setup Connectors to back end systems
+- Create Transactions to define data exchange with back end systems
+- Create Sequences to define back-end flows and business logic
+- Create Mobile or Web User interface, screen flow and local business logic
+- Define test cases and run the mobile application or any of its subcomponents
+- Create Front-end cross-platform client applications, by defining pages and graphical component
+### No Code Studio
+
 ## Installation
 Convertigo is an open source LOW Code/NO Code Application platform for a full stack mobile or web application development.
 To install Convertigo, Refer to the link:
