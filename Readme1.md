@@ -29,5 +29,19 @@ Convertigo is an open source LOW Code/NO Code Application platform for a full st
 To install Convertigo, Refer to the link:
 [Install Convertigo]()
             
+## Advantages
+- Trusted by a wide range of developers
+- Quickly deploy backend for your mobile applications
+- Syncing of data from the user’s device to database
+- You can build your whole application in offline mode using Convertigo Studio
 
+## Disadvantages
+- It’s not free, and you need to pay a hefty amount to use the features
+- The free plan doesn’t support many feature
  
+ ## Some others Platforms
+ – Back4app
+– Firebase
+– Joget
+– Saltcorn
+– Parse
