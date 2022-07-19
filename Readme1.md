@@ -41,7 +41,7 @@ To install Convertigo, Refer to the link:
  
  ## Some others Platforms
  – Back4app
-– Firebase
-– Joget
-– Saltcorn
-– Parse
+ – Firebase
+ – Joget
+ – Saltcorn
+ – Parse
