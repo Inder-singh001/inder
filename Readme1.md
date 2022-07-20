@@ -23,7 +23,14 @@ of Convertigo Platform within the same integrated environment. Within Studio the
 - Define test cases and run the mobile application or any of its subcomponents
 - Create Front-end cross-platform client applications, by defining pages and graphical component
 ### No Code Studio
+No Code Studio usually used for making forms to store data in the databases at the back-end.
+Some features are:
+- Sharing and Publishing Forms
+- Exploring Collected datan
+- Integrating with back end Systems
+- Collaborative Design
 
+---
 ## Installation
 Convertigo is an open source LOW Code/NO Code Application platform for a full stack mobile or web application development.
 To install Convertigo,
@@ -36,11 +43,6 @@ Refer to the link:
 - Syncing of data from the user’s device to database
 - You can build your whole application in offline mode using Convertigo Studio
 
-## Disadvantages
-- It’s not free, and you need to pay a hefty amount to use the features
-- The free plan doesn’t support many feature
-- Beginner's are ignoring basic programmig knowledge
- 
  ## Some others Platforms
 - Back4app
 - Firebase
