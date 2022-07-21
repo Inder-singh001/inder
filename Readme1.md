@@ -41,21 +41,34 @@ Refer to the link:
  ## Demonstration
  - Create an Instagram App
  >- create project 
- >- open Ngx and download req files
- >- add Tabscontainer in content of page. Add TabBar in container and add required TabButton in TabBar 
- >- Add Icon in each TabButton and add Avataritem in TabButon you want. Add image in Avataritem and link an image.
- >- Add new pages to footer. Link it with the TabButton respectively.
- >- In Feed page, add Header and Content to the page.
- >- In Header, resize and slot their position recpectively, and name them.
- >- Delete Page Header as we assign the Feed Header to it.
- >- Now open Explore page. add Header and Segmentcontainer. Add Segment button in Segmentcontainer as required. Enable scrolling.
- >- Add icon and Text to Segment Button and make it responsive by adding GenericItem and name them.
- >- Choose Profile. In Header Toolbox, add Menu button in ButtonSet and text in BarTitle. Mark their position and size of the tilte.
- >- Now open the Menu folder, click on Content--> click on List --> Delete MyautoItems. Add GenericItem --> add Text to it.
- >- Now Click on Explore page --> click Content and add Grid to it --> add GridRow to grid --> add GridCol to it.
- >- Resize the GridRows to auto height.
- >- Add More Grid --> add GridRow --> add 3 GridCol. Resize th GridRow to auto.
- >- Add Images to it.
+ >>- open Ngx and download req files
+ >- Addind Tabs
+ >>- add Tabscontainer in content of page. Add TabBar in container and add required TabButton in TabBar 
+ >>- Add Icon in each TabButton and add Avataritem in TabButon you want. Add image in Avataritem and link an image.
+ >>- Add new pages to footer. Link it with the TabButton respectively.
+ >- Feed Header
+ >>- In Feed page, add Header and Content to the page.
+ >>- In Header --> Toolbar --> add 3 Icon. 
+ >>- resize and slot their position recpectively in Property pane, and name them.
+ >>- Delete Page Header as we assign the Feed Header to it.
+ >- Explore Header
+ >>- Now open Explore page. add Header --> SearchBar and Segmentcontainer.In Segmentcontainer --> Add Segment button in Segmentcontainer as required. Enable scrolling From Property pane.
+ >>- Add icon and Text to Segment Button and make it responsive by adding GenericItem and name them.
+ >- Profile Header
+ >>- Choose Profile. In Header --> Toolbox --> add Menu button in ButtonSet and text in BarTitle. Mark their position and size of the tilte.
+ >> - Now open the Menu folder, click on Content--> click on List --> Delete MyautoItems. Add GenericItem --> add Text to it.
+ >- Explore Content
+ >>- Now Click on Explore page --> click Content and add Grid to it --> add GridRow to grid --> add GridCol to it.
+ >>- Resize the GridRows to auto height.
+ >>- Add More Grid --> add GridRow --> add 3 GridCol. Resize th GridRow to auto.
+ >>- Add Images to it.
+ >- Make Profile content
+ >>- Now click on Profile --> Content --> Add Grid --> add 3 GridRows.
+ >>- In GridRow, add 4 Gridcols --> add AvatarItem --> Image to GridCol and provide image to it.
+ >>- In GridCol1, 2,and 3 --> add 2 Skeleton text.
+ >>- In GridRow1 --> add Div -->add heading and Paragraph to div.
+ >>- In GridRow2 --> add Button --> add Text.
+ >- 
 ## Advantages
 - Trusted by a wide range of developers
 - Quickly deploy backend for your mobile applications
