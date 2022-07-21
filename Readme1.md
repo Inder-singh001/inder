@@ -46,8 +46,11 @@ Refer to the link:
  >- Add Icon in each TabButton and add Avataritem in TabButon you want. Add image in Avataritem and link an image.
  >- Add new pages to footer. Link it with the TabButton respectively.
  >- In Feed page, add Header and Content to the page.
- >-In Header, add three icons and align them.
- >-
+ >- In Header, resize and slot their position recpectively, and name them.
+ >- Delete Page Header as we assign the Feed Header to it.
+ >- Now open Explore page. add Header and Segmentcontainer. Add Segment button in Segmentcontainer as required.
+ >- Add icon and Text to Segment Button and make it responsive by adding GenericItem and name them.
+ >- 
 ## Advantages
 - Trusted by a wide range of developers
 - Quickly deploy backend for your mobile applications
