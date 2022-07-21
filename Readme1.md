@@ -36,7 +36,18 @@ Convertigo is an open source LOW Code/NO Code Application platform for a full st
 To install Convertigo,
 Refer to the link:
 [https://sourceforge.net/projects/convertigo/](https://sourceforge.net/projects/convertigo/)
-            
+ 
+ 
+ ## Demonstration
+ - Create an Instagram App
+ >- create project 
+ >- open Ngx and download req files
+ >- add Tabscontainer in content of page. Add TabBar in container and add required TabButton in TabBar 
+ >- Add Icon in each TabButton and add Avataritem in TabButon you want. Add image in Avataritem and link an image.
+ >- Add new pages to footer. Link it with the TabButton respectively.
+ >- In Feed page, add Header and Content to the page.
+ >-In Header, add three icons and align them.
+ >-
 ## Advantages
 - Trusted by a wide range of developers
 - Quickly deploy backend for your mobile applications
