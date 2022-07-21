@@ -76,7 +76,11 @@ Refer to the link:
  >>- In Div2 --> add Toolbar --> add 4 Icons and name, size, slot them.
  >>- In Div3 --> add text(likey by ......)
  >>- In Div4 --> add text.
- >- 
+ >- Feed Content
+ >>- in Feed --> click Content--> add InfiniteScroll --> add IfiniteCentent --> paste Div in it.
+ >>- add SegmenContainer in Content --> add SegmentButton --> paste AvatarItem in it. Copy paste more segmentButton in contaier.
+ >>- add Style to SegmentContainer --> copy code of hode scroll bar for google --> double click on Style and paste in it. Replace classid with example.
+ >-
 ## Advantages
 - Trusted by a wide range of developers
 - Quickly deploy backend for your mobile applications
