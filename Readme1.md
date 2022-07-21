@@ -48,11 +48,14 @@ Refer to the link:
  >- In Feed page, add Header and Content to the page.
  >- In Header, resize and slot their position recpectively, and name them.
  >- Delete Page Header as we assign the Feed Header to it.
- >- Now open Explore page. add Header and Segmentcontainer. Add Segment button in Segmentcontainer as required.
+ >- Now open Explore page. add Header and Segmentcontainer. Add Segment button in Segmentcontainer as required. Enable scrolling.
  >- Add icon and Text to Segment Button and make it responsive by adding GenericItem and name them.
  >- Choose Profile. In Header Toolbox, add Menu button in ButtonSet and text in BarTitle. Mark their position and size of the tilte.
  >- Now open the Menu folder, click on Content--> click on List --> Delete MyautoItems. Add GenericItem --> add Text to it.
- >- 
+ >- Now Click on Explore page --> click Content and add Grid to it --> add GridRow to grid --> add GridCol to it.
+ >- Resize the GridRows to auto height.
+ >- Add More Grid --> add GridRow --> add 3 GridCol. Resize th GridRow to auto.
+ >- Add Images to it.
 ## Advantages
 - Trusted by a wide range of developers
 - Quickly deploy backend for your mobile applications
