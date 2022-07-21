@@ -50,6 +50,8 @@ Refer to the link:
  >- Delete Page Header as we assign the Feed Header to it.
  >- Now open Explore page. add Header and Segmentcontainer. Add Segment button in Segmentcontainer as required.
  >- Add icon and Text to Segment Button and make it responsive by adding GenericItem and name them.
+ >- Choose Profile. In Header Toolbox, add Menu button in ButtonSet and text in BarTitle. Mark their position and size of the tilte.
+ >- Now open the Menu folder, click on Content--> click on List --> Delete MyautoItems. Add GenericItem --> add Text to it.
  >- 
 ## Advantages
 - Trusted by a wide range of developers
