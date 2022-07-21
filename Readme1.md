@@ -68,6 +68,14 @@ Refer to the link:
  >>- In GridCol1, 2,and 3 --> add 2 Skeleton text.
  >>- In GridRow1 --> add Div -->add heading and Paragraph to div.
  >>- In GridRow2 --> add Button --> add Text.
+ >- Feed Content
+ >>- click Feed --> click content --> add Div --> add 5 Divs in Div.
+ >>- In Div --> add Thumbnail --> add GenericItem --> add avatarItem --> add Image.
+ >>- In Label --> add heading and Paragraph.
+ >>- In div1 --> add Grid --> add Image.
+ >>- In Div2 --> add Toolbar --> add 4 Icons and name, size, slot them.
+ >>- In Div3 --> add text(likey by ......)
+ >>- In Div4 --> add text.
  >- 
 ## Advantages
 - Trusted by a wide range of developers
