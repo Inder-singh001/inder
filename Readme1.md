@@ -80,7 +80,9 @@ Refer to the link:
  >>- in Feed --> click Content--> add InfiniteScroll --> add IfiniteCentent --> paste Div in it.
  >>- add SegmenContainer in Content --> add SegmentButton --> paste AvatarItem in it. Copy paste more segmentButton in contaier.
  >>- add Style to SegmentContainer --> copy code of hode scroll bar for google --> double click on Style and paste in it. Replace classid with example.
- >-
+ >- Shared Components
+ >>- Add SharedComponents to NgxApp --> drop Feed Scrollbar to SharedComponents. add Use SharedComponents in that file from where you drag the file --> link it. repeat it for images by creating new Sharedcomponent.
+ >>- Paste both the use command in Profile Content-->Grid.
 ## Advantages
 - Trusted by a wide range of developers
 - Quickly deploy backend for your mobile applications
