@@ -31,15 +31,10 @@ Some features are:
 - Collaborative Design
 
 ---
-## Installation
-Convertigo is an open source LOW Code/NO Code Application platform for a full stack mobile or web application development.
-To install Convertigo,
-Refer to the link:
-[https://sourceforge.net/projects/convertigo/](https://sourceforge.net/projects/convertigo/)
  
  
  ## Demonstration
- - Create an Instagram App
+ - Create a Project (Instagram App)
  >- create project 
  >>- open Ngx and download req files
  >- Addind Tabs
@@ -86,7 +81,9 @@ Refer to the link:
  >- Lists
  >>- add ListContainer in Notifications page --> add ListItems --> add AvatarItem --> Image. Add Thumbnail --> image in ListItem.
  >>- Copy paste several times in ListContainer.
- >-
+ 
+ ---
+ 
 ## Advantages
 - Trusted by a wide range of developers
 - Quickly deploy backend for your mobile applications
