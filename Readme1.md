@@ -83,6 +83,10 @@ Refer to the link:
  >- Shared Components
  >>- Add SharedComponents to NgxApp --> drop Feed Scrollbar to SharedComponents. add Use SharedComponents in that file from where you drag the file --> link it. repeat it for images by creating new Sharedcomponent.
  >>- Paste both the use command in Profile Content-->Grid.
+ >- Lists
+ >>- add ListContainer in Notifications page --> add ListItems --> add AvatarItem --> Image. Add Thumbnail --> image in ListItem.
+ >>- Copy paste several times in ListContainer.
+ >-
 ## Advantages
 - Trusted by a wide range of developers
 - Quickly deploy backend for your mobile applications
